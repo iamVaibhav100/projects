@@ -24,5 +24,5 @@ All my projects that I have been working on. . .
 
 
 ## Check out my website
-[Portfolio](https://iamvaibhav.netlify.app/)
-[Gaming site]()
+- [Portfolio](https://iamvaibhav.netlify.app/)
+- [Gaming site]()
