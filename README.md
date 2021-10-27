@@ -23,5 +23,6 @@ All my projects that I have been working on. . .
 - [Naruto Simon game](https://iamvaibhav100.github.io/NarutoSimonGame/)
 
 
-## Check out my gaming page
-[Vaibhav]()
+## Check out my website
+[Portfolio](https://iamvaibhav.netlify.app/)
+[Gaming site]()
