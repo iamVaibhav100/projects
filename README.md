@@ -10,6 +10,7 @@ All my projects that I have been working on. . .
 - [Snake game](https://github.com/iamVaibhav100/python_snake_game)
 - [Pong game](https://github.com/iamVaibhav100/python_pong_game)
 - [Quiz](https://github.com/iamVaibhav100/Quiz_with_python)
+- [Movie Recommender System](https://huggingface.co/spaces/iamvaibhav/movie_recommender_system)
 
 ### Flutter
 - [Pychat](https://github.com/iamVaibhav100/pyChat)
